@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <test name="Test(failed)" preserve-order="true">
+    <classes>
+      <class name="co.uk.ybs.selenium.psd2.PSD2Yorkshire">
+        <methods>
+          <include name="setUp"/>
+          <include name="testdPsd2TppResultPage"/>
+          <include name="tearDown"/>
+          <include name="tearDownMethod"/>
+        </methods>
+      </class> <!-- co.uk.ybs.selenium.psd2.PSD2Yorkshire -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

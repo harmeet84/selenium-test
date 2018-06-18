@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="11" passed="11">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="73394" started-at="2018-05-18T13:41:08Z" finished-at="2018-05-18T13:42:21Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="73394" started-at="2018-05-18T13:41:08Z" finished-at="2018-05-18T13:42:21Z">
+      <class name="co.uk.ybs.selenium.psd2.PSD2Yorkshire">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:co.uk.ybs.selenium.psd2.PSD2Yorkshire@4678c730]" name="setUp" is-config="true" duration-ms="2957" started-at="2018-05-18T13:41:08Z" finished-at="2018-05-18T13:41:11Z">
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testChelseaYoaApplication()[pri:1, instance:co.uk.ybs.selenium.psd2.PSD2Yorkshire@4678c730]" name="testChelseaYoaApplication" duration-ms="8202" started-at="2018-05-18T13:41:11Z" finished-at="2018-05-18T13:41:19Z">
+        </test-method> <!-- testChelseaYoaApplication -->
+        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:co.uk.ybs.selenium.psd2.PSD2Yorkshire@4678c730]" name="tearDownMethod" is-config="true" duration-ms="2" started-at="2018-05-18T13:41:19Z" finished-at="2018-05-18T13:41:19Z">
+        </test-method> <!-- tearDownMethod -->
+        <test-method status="PASS" signature="testbPsd2Login1Page()[pri:2, instance:co.uk.ybs.selenium.psd2.PSD2Yorkshire@4678c730]" name="testbPsd2Login1Page" duration-ms="2809" started-at="2018-05-18T13:41:19Z" finished-at="2018-05-18T13:41:22Z">
+        </test-method> <!-- testbPsd2Login1Page -->
+        <test-method status="PASS" signature="testcPsd2Login2Page()[pri:3, instance:co.uk.ybs.selenium.psd2.PSD2Yorkshire@4678c730]" name="testcPsd2Login2Page" duration-ms="8340" started-at="2018-05-18T13:41:22Z" finished-at="2018-05-18T13:41:30Z">
+        </test-method> <!-- testcPsd2Login2Page -->
+        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:co.uk.ybs.selenium.psd2.PSD2Yorkshire@4678c730]" name="tearDownMethod" is-config="true" duration-ms="0" started-at="2018-05-18T13:41:22Z" finished-at="2018-05-18T13:41:22Z">
+        </test-method> <!-- tearDownMethod -->
+        <test-method status="PASS" signature="testdPsd2AccountSelectionPage()[pri:4, instance:co.uk.ybs.selenium.psd2.PSD2Yorkshire@4678c730]" name="testdPsd2AccountSelectionPage" duration-ms="2895" started-at="2018-05-18T13:41:30Z" finished-at="2018-05-18T13:41:33Z">
+        </test-method> <!-- testdPsd2AccountSelectionPage -->
+        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:co.uk.ybs.selenium.psd2.PSD2Yorkshire@4678c730]" name="tearDownMethod" is-config="true" duration-ms="0" started-at="2018-05-18T13:41:30Z" finished-at="2018-05-18T13:41:30Z">
+        </test-method> <!-- tearDownMethod -->
+        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:co.uk.ybs.selenium.psd2.PSD2Yorkshire@4678c730]" name="tearDownMethod" is-config="true" duration-ms="0" started-at="2018-05-18T13:41:33Z" finished-at="2018-05-18T13:41:33Z">
+        </test-method> <!-- tearDownMethod -->
+        <test-method status="PASS" signature="testdPsd2AuthorisationRequestPage()[pri:5, instance:co.uk.ybs.selenium.psd2.PSD2Yorkshire@4678c730]" name="testdPsd2AuthorisationRequestPage" duration-ms="3086" started-at="2018-05-18T13:41:33Z" finished-at="2018-05-18T13:41:36Z">
+        </test-method> <!-- testdPsd2AuthorisationRequestPage -->
+        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:co.uk.ybs.selenium.psd2.PSD2Yorkshire@4678c730]" name="tearDownMethod" is-config="true" duration-ms="0" started-at="2018-05-18T13:41:36Z" finished-at="2018-05-18T13:41:36Z">
+        </test-method> <!-- tearDownMethod -->
+        <test-method status="PASS" signature="testdPsd2AuthorisationSuccessPage()[pri:8, instance:co.uk.ybs.selenium.psd2.PSD2Yorkshire@4678c730]" name="testdPsd2AuthorisationSuccessPage" duration-ms="372" started-at="2018-05-18T13:41:36Z" finished-at="2018-05-18T13:41:37Z">
+        </test-method> <!-- testdPsd2AuthorisationSuccessPage -->
+        <test-method status="PASS" signature="testdPsd2TppRetrurnPage()[pri:9, instance:co.uk.ybs.selenium.psd2.PSD2Yorkshire@4678c730]" name="testdPsd2TppRetrurnPage" duration-ms="941" started-at="2018-05-18T13:41:37Z" finished-at="2018-05-18T13:41:38Z">
+        </test-method> <!-- testdPsd2TppRetrurnPage -->
+        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:co.uk.ybs.selenium.psd2.PSD2Yorkshire@4678c730]" name="tearDownMethod" is-config="true" duration-ms="0" started-at="2018-05-18T13:41:37Z" finished-at="2018-05-18T13:41:37Z">
+        </test-method> <!-- tearDownMethod -->
+        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:co.uk.ybs.selenium.psd2.PSD2Yorkshire@4678c730]" name="tearDownMethod" is-config="true" duration-ms="0" started-at="2018-05-18T13:41:38Z" finished-at="2018-05-18T13:41:38Z">
+        </test-method> <!-- tearDownMethod -->
+        <test-method status="PASS" signature="testdPsd2TppAccessTokenPage()[pri:10, instance:co.uk.ybs.selenium.psd2.PSD2Yorkshire@4678c730]" name="testdPsd2TppAccessTokenPage" duration-ms="23" started-at="2018-05-18T13:41:38Z" finished-at="2018-05-18T13:41:38Z">
+        </test-method> <!-- testdPsd2TppAccessTokenPage -->
+        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:co.uk.ybs.selenium.psd2.PSD2Yorkshire@4678c730]" name="tearDownMethod" is-config="true" duration-ms="1" started-at="2018-05-18T13:41:38Z" finished-at="2018-05-18T13:41:38Z">
+        </test-method> <!-- tearDownMethod -->
+        <test-method status="PASS" signature="testaTppToolAuthorisationpage()[pri:11, instance:co.uk.ybs.selenium.psd2.PSD2Yorkshire@4678c730]" name="testaTppToolAuthorisationpage" duration-ms="604" started-at="2018-05-18T13:41:38Z" finished-at="2018-05-18T13:41:38Z">
+        </test-method> <!-- testaTppToolAuthorisationpage -->
+        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:co.uk.ybs.selenium.psd2.PSD2Yorkshire@4678c730]" name="tearDownMethod" is-config="true" duration-ms="0" started-at="2018-05-18T13:41:38Z" finished-at="2018-05-18T13:41:38Z">
+        </test-method> <!-- tearDownMethod -->
+        <test-method status="PASS" signature="testaTppToolAccessTokenpage()[pri:12, instance:co.uk.ybs.selenium.psd2.PSD2Yorkshire@4678c730]" name="testaTppToolAccessTokenpage" duration-ms="1771" started-at="2018-05-18T13:41:38Z" finished-at="2018-05-18T13:41:40Z">
+        </test-method> <!-- testaTppToolAccessTokenpage -->
+        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:co.uk.ybs.selenium.psd2.PSD2Yorkshire@4678c730]" name="tearDownMethod" is-config="true" duration-ms="0" started-at="2018-05-18T13:41:40Z" finished-at="2018-05-18T13:41:40Z">
+        </test-method> <!-- tearDownMethod -->
+        <test-method status="PASS" signature="testdPsd2TppResultPage()[pri:13, instance:co.uk.ybs.selenium.psd2.PSD2Yorkshire@4678c730]" name="testdPsd2TppResultPage" duration-ms="41088" started-at="2018-05-18T13:41:40Z" finished-at="2018-05-18T13:42:21Z">
+        </test-method> <!-- testdPsd2TppResultPage -->
+        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:co.uk.ybs.selenium.psd2.PSD2Yorkshire@4678c730]" name="tearDownMethod" is-config="true" duration-ms="0" started-at="2018-05-18T13:42:21Z" finished-at="2018-05-18T13:42:21Z">
+        </test-method> <!-- tearDownMethod -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:co.uk.ybs.selenium.psd2.PSD2Yorkshire@4678c730]" name="tearDown" is-config="true" duration-ms="263" started-at="2018-05-18T13:42:21Z" finished-at="2018-05-18T13:42:21Z">
+        </test-method> <!-- tearDown -->
+      </class> <!-- co.uk.ybs.selenium.psd2.PSD2Yorkshire -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
